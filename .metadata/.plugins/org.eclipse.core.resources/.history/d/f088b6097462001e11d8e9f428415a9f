@@ -1,0 +1,7 @@
+package com.acorn.web;
+
+
+@Controller
+public class Hello3Controller {
+
+}

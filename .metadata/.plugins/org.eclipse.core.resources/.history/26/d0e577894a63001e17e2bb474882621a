@@ -1,0 +1,17 @@
+package com.acorn.day1.Exam;
+
+public class ACal implements Calculator {
+
+	@Override
+	public int divide(int su1, int su2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int Multiple(int su1, int su2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

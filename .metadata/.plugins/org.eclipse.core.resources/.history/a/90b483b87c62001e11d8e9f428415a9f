@@ -1,0 +1,38 @@
+package com.acorn.web;
+
+import java.io.IOException;
+
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+
+@Controller
+public class TestController2 {
+	
+	@GetMapping("/test1")
+	public String method1(Model model) {
+		model.addAttribute("key", "스프링 좋아요!!!");
+		return "viewname";
+	}
+	
+	
+	@GetMapping("/test5")
+	public void method5(HttpServletResponse response) {
+		
+		try {
+			response.setCharacterEncoding("UTF-8");
+			response.setContentType("test/plain;charset=utf-8");
+			response.getWriter().println("데이터간다");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	
+	
+
+}
