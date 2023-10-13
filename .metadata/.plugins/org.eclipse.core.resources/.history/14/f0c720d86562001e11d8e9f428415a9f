@@ -1,7 +1,0 @@
-package com.acorn.web;
-
-
-@Controller
-public class Hello2Controller {
-
-}

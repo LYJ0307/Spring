@@ -125,3 +125,6 @@
 10월 12, 2023 14:33:06.530 [10636:3172:1012/143306.529:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
 10월 12, 2023 14:35:24.663 [10636:3172:1012/143524.663:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
 10월 12, 2023 19:40:18.129 [12116:10788:1012/194018.129:ERROR:device_event_log_impl.cc(225)] [19:40:18.130] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+
+10월 13, 2023 14:39:52.846 NEW SESSION
+10월 13, 2023 14:39:52.846 기존 브라우저 세션에서 여는 중입니다.
