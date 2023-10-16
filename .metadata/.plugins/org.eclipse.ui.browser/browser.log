@@ -128,3 +128,9 @@
 
 10월 13, 2023 14:39:52.846 NEW SESSION
 10월 13, 2023 14:39:52.846 기존 브라우저 세션에서 여는 중입니다.
+
+10월 16, 2023 10:44:48.878 NEW SESSION
+10월 16, 2023 10:44:48.878 [7472:4044:1016/104448.877:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 16, 2023 10:49:45.29 [7472:4044:1016/104945.029:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 16, 2023 10:49:52.912 [7472:4044:1016/104952.912:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+10월 16, 2023 14:55:35.855 [968:10972:1016/145535.855:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
